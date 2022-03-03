@@ -1,0 +1,19 @@
+{
+  "name": "nodejspage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.1",
+    "should": "^13.2.3",
+    "supertest": "^6.2.2"
+  }
+}
